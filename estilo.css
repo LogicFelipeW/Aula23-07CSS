@@ -1,14 +1,48 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
 h1{
     color: blueviolet;
 }
+.time-detalhe{
+    color: red;
+    
+}
 
 h2{
+    color: blue;
     margin: 0px;
+    font-weight: 800;
+    
 }
 
 .time{
     width: 400px;
     border: solid black 1px;
     padding: 30px;
-    margin: 20px;
+    margin: 50px;
+    box-shadow: 10px 10px 5px ;
+}
+
+#cru{
+    
+    color: blue;
+}
+#cam{
+    color: black;
+}
+#amg{
+    color: green;
+}
+.imagem-cru{
+    width: 120px;
+}
+.imagem-cam{
+    width: 100px;
+}
+.imagem-amg{
+    width: 100px;
+
+}
+p{
+    font-weight: 300;
 }
